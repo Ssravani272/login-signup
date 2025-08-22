@@ -28,7 +28,7 @@ This project demonstrates the use of **functional components**, **React state ma
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
-### 2. Install Dependencies
-npm install
-### 3. Run the app
-npm start
+
+## 🚀 Run the Project
+1. Install dependencies: `npm install`
+2. Start the app: `npm start`
