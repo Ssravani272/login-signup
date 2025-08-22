@@ -30,6 +30,6 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 ```
 
-## 🚀 Run the Project
+### 2. Run the Project
 1. Install dependencies: `npm install`
 2. Start the app: `npm start`
